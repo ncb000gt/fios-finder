@@ -1,0 +1,4 @@
+goenv/
+*.sw[a-z]
+us_postal_codes.csv
+fios-finder
